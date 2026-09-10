@@ -1,10 +1,10 @@
-/*
- * The purpose of this program is to solve a number riddle
- * we are doing this using a positive and negative integer, zero and one,
- * using positive and negative doubles
- * The program will print every step
- * this program is meant to demonstrate compound assignments and data type conversions
- */
+ // DESCRIPTION:
+ // Purpose of program: Solve a number riddle
+ // we are doing this using a positive and negative integer, zero and one,
+ // along with using positive and negative doubles
+ // Program will print every step
+ // Program is meant to demonstrate compound assignments and data type conversions
+
 
 public class NumberRiddle {
 
